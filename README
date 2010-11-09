@@ -1,4 +1,5 @@
 Analyzes one-transaction Grinder run out log file and produces run statistics like TPS, response time, etc in PDF format.
+Requires Scipy, Numpy, Matplotlib.
 
 
 Chang Song
